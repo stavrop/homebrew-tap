@@ -1,6 +1,6 @@
 cask "usage-monitor-for-claude" do
-  version "0.1.0"
-  sha256 "18c397c46b2156b624bbf55e56ee616b0adad071f92d74b9198dcaafb2423d5e"
+  version "0.2.0"
+  sha256 "83d77c73ff3f9f78d19549561c38ccfe6c37d1fd90e0e6e230b934b7ab34291d"
 
   url "https://github.com/stavrop/usage-monitor-for-claude/releases/download/v#{version}/ClaudeUsage.zip"
   name "Usage Monitor for Claude"
